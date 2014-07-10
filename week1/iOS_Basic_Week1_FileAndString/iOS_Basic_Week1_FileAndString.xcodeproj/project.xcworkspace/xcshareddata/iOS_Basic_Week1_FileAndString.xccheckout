@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>1AC5A9F1-E6E0-48B8-B028-9432DCCF744D</string>
+	<string>F5E1BF37-3CD8-410C-9397-2B16F01EBE59</string>
 	<key>IDESourceControlProjectName</key>
 	<string>iOS_Basic_Week1_FileAndString</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>26EC5BE6-0657-4A80-8D83-A1AC614F531B</string>
 			<key>IDESourceControlWCCName</key>
-			<string>NEXT_iOS_Basic</string>
+			<string>iOS_Basic_Week1_FileAndString</string>
 		</dict>
 	</array>
 </dict>
