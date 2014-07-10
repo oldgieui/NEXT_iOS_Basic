@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1AC5A9F1-E6E0-48B8-B028-9432DCCF744D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iOS_Basic_Week1_FileAndString</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>26EC5BE6-0657-4A80-8D83-A1AC614F531B</key>
+		<string>https://github.com/oldgieui/NEXT_iOS_Basic.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>week1/iOS_Basic_Week1_FileAndString/iOS_Basic_Week1_FileAndString.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>26EC5BE6-0657-4A80-8D83-A1AC614F531B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/oldgieui/NEXT_iOS_Basic.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>26EC5BE6-0657-4A80-8D83-A1AC614F531B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>26EC5BE6-0657-4A80-8D83-A1AC614F531B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NEXT_iOS_Basic</string>
+		</dict>
+	</array>
+</dict>
+</plist>
