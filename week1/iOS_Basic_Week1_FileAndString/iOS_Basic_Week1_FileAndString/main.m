@@ -34,6 +34,23 @@ BOOL IsFileExist(NSString* fileName, NSString* path){
     return false;
 }
 
+void FindFiles(NSString* path, NSString* file1, ...){
+    va_list args;
+    va_start(args, file1);
+    
+    for (NSString* arg = file1; arg!=nil; arg = va_arg(args, NSString*)) {
+        BOOL isExist = IsFileExist(arg, path);
+        if (isExist) {
+            NSLog(@"File %@ is exists.", arg);
+        }
+        else{
+            NSLog(@"File %@ is not exists.", arg);
+        }
+    }
+    va_end(args);
+}
+
+
 int main(int argc, const char * argv[])
 {
     @autoreleasepool {
@@ -47,6 +64,8 @@ int main(int argc, const char * argv[])
         else{
             NSLog(@"File not exists.");
         }
+        
+
 
         
     }
